@@ -1,0 +1,12 @@
+1、simpleBlockly为Blockly源码的精简版
+
+2、index.html为打开网页文件（主文件）
+
+3、css存放的style.css为网页样式
+
+4、js存放了Toolbox的block以及block对应各种计算机语言的代码文件
+
+5、media存放了媒体文件，声音，以及图标等
+
+6、msg中blocks-msg存放的是block块对应的国家语言
+   msg中category-msg存放的是代码演示的国家语言
